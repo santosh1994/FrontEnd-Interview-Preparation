@@ -1,3 +1,7 @@
+# FrontEnd Interview Preparation - Must read Topics, Frequent Topics and Machine round Questions
+
+## Topics
+
 ### Javascript Fundamentals
 
 ### CSS
@@ -6,7 +10,11 @@
 
 ### HTTP/Network
 
-### Machine coding questions
+## Machine coding questions
+
+## Javascript
+
+## CSS
 
 ### DS
 
